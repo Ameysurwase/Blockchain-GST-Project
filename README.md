@@ -66,3 +66,6 @@ GST Chain is a decentralized application (DApp) designed to provide a secure, im
 ## ⚖️ License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
+# Blockchain-GST-Project
+A Blockchain based GST Calculating and ledger maintaining project
